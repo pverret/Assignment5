@@ -130,7 +130,7 @@ function onPhotoDataSuccess(imageData) {
 
       // Unhide image elements
       //
-      //smallImage.style.display = 'block';
+      smallImage.style.display = 'block';
 
       // Show the captured photo
       // The inline CSS rules are used to resize the image
